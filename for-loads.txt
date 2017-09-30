@@ -1,0 +1,7 @@
+有几个建议看看是否合理：
+
+1）文中用WTC指代沃尔顿链，可以换成Waltonchain，WTC一般可能更习惯指代沃尔顿币（WatlonCoin）的缩写；
+2）stored via key values 可以写成 stored via key value pairs；
+3）第一句看是否可以这样：The main chain of Waltonchain is responsible for the circulation of WTC
+ and creation of child chains,
+4）魏老师，母链用The parent chain of Waltonchain好还是The main chain of Waltonchain好一些
